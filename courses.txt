@@ -2,3 +2,5 @@
 - Lait
 - Miel
 - fromage
+- Sapin
+- Guirlandes
