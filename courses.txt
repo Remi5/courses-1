@@ -3,5 +3,7 @@
 - Jambon
 - Miel
 - fromage
+- Aliment 1
 - Sapin
 - Guirlandes
+- Aliment 2
