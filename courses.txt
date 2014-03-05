@@ -3,3 +3,5 @@
 - Jambon
 - Miel
 - fromage
+- Sapin
+- Guirlandes
